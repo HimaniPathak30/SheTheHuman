@@ -45,12 +45,14 @@ This project is about to spread awareness about laws to women. It also shows the
 
 # Registration Process
 
+https://user-images.githubusercontent.com/91330948/134784103-3c9cd1e1-3bea-4fe6-b6cd-4e8536d8fc24.mp4
+
 # SOS Process
 
 Sending SMS via Emergency Button
 
-https://user-images.githubusercontent.com/91330948/134783771-9ecc66c3-1d47-407e-85e5-fc1a40cc2e46.mp4
+https://user-images.githubusercontent.com/91330948/134784113-d6f35d65-4312-43d3-98c8-34c3393f7fc5.mp4
 
 Getting location by sent message
 
-https://user-images.githubusercontent.com/91330948/134783784-2fc9a4f2-3fde-4b39-859a-44804e9ff4e6.mp4
+https://user-images.githubusercontent.com/91330948/134784125-584cac91-8d95-4a75-b723-955b08f7b364.mp4

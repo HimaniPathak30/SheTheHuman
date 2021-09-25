@@ -31,6 +31,7 @@ This project is about to spread awareness about laws to women. It also shows the
       <td>NGO List</td>
       <td>Profile</td>
       <td>Chat Forum</td>
+      <td>My Chats</td>
       <td>Comment Section</td>
     </tr>
     <tr>
@@ -39,6 +40,9 @@ This project is about to spread awareness about laws to women. It also shows the
       <td align="center"><img src="https://user-images.githubusercontent.com/91330948/134783975-c870f743-e714-48a1-a3ac-84e6212fb1fb.jpg" width="100"></td>
       <td align="center"><img src="https://user-images.githubusercontent.com/91330948/134783977-c608dac2-d065-4525-b56b-f3c96628f997.jpg" width="100"></td>
       <td align="center"><img src="https://user-images.githubusercontent.com/91330948/134782928-aecf80a3-a744-4623-b12c-55fcfd481b6c.jpg" width="100"></td>
+      <td align="center"><img src="https://user-images.githubusercontent.com/91330948/134784211-ee852f9a-b5dc-4046-9f52-e99a7357a190.jpg" width="100"></td>
+      <td align="center"><img src="https://user-images.githubusercontent.com/91330948/134784213-016ce292-d934-49f4-9f25-2904a0077d6c.jpg" width="100"></td>
+      <td align="center"><img src="https://user-images.githubusercontent.com/91330948/134784214-40e2c992-6c99-4693-a965-2a0fb4d11334.jpg" width="100"></td>
     </tr>
     </table>
 </p>

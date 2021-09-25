@@ -11,8 +11,6 @@ This project is about to spread awareness about laws to women. It also shows the
       <td>Dashboard</td>
       <td>Drawer</td>
       <td>Survey</td>
-      <td>Safety Tips</td>
-      <td>Escape Tips</td>
     </tr>
     <tr>
       <td align="center"><img src="https://user-images.githubusercontent.com/91330948/134781878-1dc9083d-e686-4b85-9bb5-01020e8af6d6.jpg" width="100"></td>
@@ -21,28 +19,38 @@ This project is about to spread awareness about laws to women. It also shows the
       <td align="center"><img src="https://user-images.githubusercontent.com/91330948/134782335-7ce2a279-f7d7-46d6-8a3a-0d7cc6c72d87.jpg" width="100"></td>
       <td align="center"><img src="https://user-images.githubusercontent.com/91330948/134782911-dbff9e24-9d2f-436c-b789-afbe87b88ed1.jpg" width="100"></td>
       <td align="center"><img src="https://user-images.githubusercontent.com/91330948/134783943-ed7afe9c-54cb-4d4c-9c1c-07a328eb94a3.jpg" width="100"></td>
-      <td align="center"><img src="https://user-images.githubusercontent.com/91330948/134783962-dcd8ec63-0bba-4450-9778-7fa9db3793fd.jpg" width="100"></td>
-      <td align="center"><img src="https://user-images.githubusercontent.com/91330948/134783964-d47196cd-f374-4ad8-8b82-f3cf9ca55c23.jpg" width="100"></td>
     </tr>
     <tr>
+      <td>Safety Tips</td>
+      <td>Escape Tips</td>
       <td>Law Section</td>
       <td>Defence Videos</td>
       <td>NGO for all States<h4></td>
       <td>NGO List</td>
-      <td>Profile</td>
-      <td>Chat Forum</td>
-      <td>My Chats</td>
-      <td>Comment Section</td>
     </tr>
     <tr>
+      <td align="center"><img src="https://user-images.githubusercontent.com/91330948/134783962-dcd8ec63-0bba-4450-9778-7fa9db3793fd.jpg" width="100"></td>
+      <td align="center"><img src="https://user-images.githubusercontent.com/91330948/134783964-d47196cd-f374-4ad8-8b82-f3cf9ca55c23.jpg" width="100"></td>
       <td align="center"><img src="https://user-images.githubusercontent.com/91330948/134783945-775aae07-9e59-4a37-ba62-f14b1e283920.jpg" width="100"></td>
       <td align="center"><img src="https://user-images.githubusercontent.com/91330948/134783971-77436685-1e6d-4f45-b6be-92d3fbb2225c.jpg" width="100"></td>
       <td align="center"><img src="https://user-images.githubusercontent.com/91330948/134783975-c870f743-e714-48a1-a3ac-84e6212fb1fb.jpg" width="100"></td>
       <td align="center"><img src="https://user-images.githubusercontent.com/91330948/134783977-c608dac2-d065-4525-b56b-f3c96628f997.jpg" width="100"></td>
+    </tr>
+    <tr>
+      <td>Profile</td>
+      <td>Chat Forum</td>
+      <td>My Chats</td>
+      <td>Comment Section</td>
+      <td>About App Section</td>
+      <td>Logout</td>
+    </tr>
+    <tr>
       <td align="center"><img src="https://user-images.githubusercontent.com/91330948/134782928-aecf80a3-a744-4623-b12c-55fcfd481b6c.jpg" width="100"></td>
       <td align="center"><img src="https://user-images.githubusercontent.com/91330948/134784211-ee852f9a-b5dc-4046-9f52-e99a7357a190.jpg" width="100"></td>
       <td align="center"><img src="https://user-images.githubusercontent.com/91330948/134784213-016ce292-d934-49f4-9f25-2904a0077d6c.jpg" width="100"></td>
       <td align="center"><img src="https://user-images.githubusercontent.com/91330948/134784214-40e2c992-6c99-4693-a965-2a0fb4d11334.jpg" width="100"></td>
+      <td align="center"><img src="https://user-images.githubusercontent.com/91330948/134784595-2b32b799-7ba7-46d7-b332-0d1db1632419.jpg" width="100"></td>
+      <td align="center"><img src="https://user-images.githubusercontent.com/91330948/134784597-387721f9-be6c-4429-856c-2c6fc24cd2e8.jpg" width="100"></td>
     </tr>
     </table>
 </p>

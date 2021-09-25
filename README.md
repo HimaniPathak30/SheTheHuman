@@ -40,6 +40,7 @@ This project is about to spread awareness about laws to women. It also shows the
       <td align="center"><img src="https://user-images.githubusercontent.com/91330948/134783977-c608dac2-d065-4525-b56b-f3c96628f997.jpg" width="100"></td>
       <td align="center"><img src="https://user-images.githubusercontent.com/91330948/134782928-aecf80a3-a744-4623-b12c-55fcfd481b6c.jpg" width="100"></td>
     </tr>
+    </table>
 </p>
 
 # Registration Process

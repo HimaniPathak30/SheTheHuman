@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.sth">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:requestLegacyExternalStorage="true"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.STH">
+        <activity
+            android:name=".EditProfileActivity"
+            android:exported="true"
+            android:label="Edit Profile"
+            android:theme="@style/Theme.STH.TitleBar" />
+        <activity
+            android:name=".AddContactsActivity"
+            android:exported="true"
+            android:label="Call Log"
+            android:theme="@style/Theme.STH.TitleBar" />
+        <activity
+            android:name=".CommentActivity"
+            android:exported="true"
+            android:label="Comment"
+            android:theme="@style/Theme.STH.TitleBar" />
+        <activity
+            android:name=".MyPostActivity"
+            android:exported="true"
+            android:label="My Post"
+            android:theme="@style/Theme.STH.TitleBar" />
+        <activity
+            android:name=".CityNgosActivity"
+            android:exported="true"
+            android:theme="@style/Theme.STH.TitleBar" />
+        <activity
+            android:name=".CityActivity"
+            android:exported="true"
+            android:label="NGO for Women"
+            android:theme="@style/Theme.STH.TitleBar" />
+        <activity
+            android:name=".SafetyActivity"
+            android:exported="true"
+            android:label="Tips For Safety"
+            android:theme="@style/Theme.STH.TitleBar" />
+        <activity
+            android:name=".ForgotPasswordActivity"
+            android:exported="true" />
+        <activity
+            android:name=".ResultActivity"
+            android:exported="true"
+            android:label="Take a Survey"
+            android:theme="@style/Theme.STH.TitleBar" />
+        <activity
+            android:name=".SurveyActivity"
+            android:exported="true"
+            android:label="Take a Survey"
+            android:theme="@style/Theme.STH.TitleBar" />
+        <activity
+            android:name=".ThreatActivity"
+            android:exported="true"
+            android:label="Tips to Escape from Threat"
+            android:theme="@style/Theme.STH.TitleBar" />
+        <activity
+            android:name=".LawActivity"
+            android:exported="true"
+            android:label="Laws for Woman"
+            android:theme="@style/Theme.STH.TitleBar" />
+        <activity
+            android:name=".VideoActivity"
+            android:exported="true"
+            android:label="Defense Videos"
+            android:theme="@style/Theme.STH.TitleBar" />
+        <activity
+            android:name=".DrawerActivity"
+            android:exported="true"
+            android:label="@string/title_activity_drawer"
+            android:theme="@style/Theme.STH.NoActionBar" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="true" />
+        <activity
+            android:name=".RegistrationActivity"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.theartofdev.edmodo.cropper.CropImageActivity"
+            android:theme="@style/Base.Theme.AppCompat"/>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

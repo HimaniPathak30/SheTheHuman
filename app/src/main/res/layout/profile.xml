@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ProfileFragment"
+    android:layout_centerInParent="true">
+
+    <LinearLayout
+        android:layout_width="300dp"
+        android:layout_height="500dp"
+        android:orientation="vertical"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        tools:ignore="MissingConstraints">
+
+        <com.mikhaellopez.circularimageview.CircularImageView
+            android:id="@+id/profile_pic"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@drawable/avatar"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"/>
+
+        <LinearLayout
+            android:id="@+id/linearLayout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="20dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/profile_pic">
+
+            <TextView
+                android:id="@+id/uname"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="15dp"
+                android:text="Username"
+                android:textColor="@color/black"
+                android:textSize="16sp"
+                android:textStyle="bold"/>
+        </LinearLayout>
+
+        <View
+            android:id="@+id/line"
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_marginTop="10dp"
+            app:layout_constraintTop_toBottomOf="@+id/linearLayout"
+            android:background="#FF0077"/>
+
+
+        <TableLayout
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/line">
+
+            <TableRow>
+
+                <TextView
+                    android:width="100dp"
+                    android:layout_margin="10dp"
+                    android:text="Email"
+                    android:textColor="@color/black"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:width="100dp"
+                    android:id="@+id/email"
+                    android:layout_margin="10dp"
+                    android:text="email@gmail.com"
+                    android:textSize="16sp" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:width="100dp"
+                    android:layout_margin="10dp"
+                    android:text="Mobile No."
+                    android:textColor="@color/black"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:width="100dp"
+                    android:id="@+id/mno"
+                    android:layout_margin="10dp"
+                    android:text="1234567890"
+                    android:textSize="16sp" />
+            </TableRow>
+
+        </TableLayout>
+
+    </LinearLayout>
+
+
+</RelativeLayout>

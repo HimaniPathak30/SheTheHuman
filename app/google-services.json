@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "140140484660",
+    "project_id": "shethehuman-e4f30",
+    "storage_bucket": "shethehuman-e4f30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140140484660:android:fe4c6fb827ffacfec1d261",
+        "android_client_info": {
+          "package_name": "com.example.sth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140140484660-tfkjtsmaoa1vqquhg8o7dd5l5lmlrqsb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnUpYmudDdUbHAmARzLUEoQESnnmtW1bg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140140484660-tfkjtsmaoa1vqquhg8o7dd5l5lmlrqsb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

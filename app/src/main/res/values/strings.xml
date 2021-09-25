@@ -1,0 +1,220 @@
+<resources>
+    <string name="app_name">STH</string>
+    <string name="title_activity_drawer">DrawerActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Hello</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    //-----Array of "Law for Woman" -----
+    <string-array name="lawListGroup">
+        <item>Acid Attack (Section 326A and 326B)</item>
+        <item>Rape (Section 375,376,376A,376B,376C,376D and 376E)</item>
+        <item>Kidnapping and Abduction for different purposes (Sections 363–373)</item>
+        <item>Murder, Dowry Death, Abutment of Suicide (Section 302, 304B and 306)</item>
+        <item>Dowry Prohibition Act (Section 498A)</item>
+        <item>Cruelty by husband or his relatives (Section 498A)</item>
+        <item>Outraging the modesty of Women (Section 354)</item>
+        <item>Sexual Harassment (Section 354A)</item>
+        <item>Assault on women with intent to disrobe a woman (Section 354B)</item>
+        <item>Voyeurism (Section 354C)</item>
+        <item>Stalking (Section 354D)</item>
+        <item>Word, Gesture or act intended to insult the modesty of a woman (Section 509)</item>
+
+    </string-array>
+
+    <string-array name="lawListChild">
+        <item>
+            The Criminal Law (Amendment) Act, 2013 incorporated Section 326A and 326B with an intend to make specific provision for
+            punishment in the case of Acid Attack. \n\n
+            Section 326A focuses on voluntarily causing grievous hurt by using acid. In the view of this section, whosoever causes
+            permanent or partial damage or burns, disfigures or disables any part of the body of a person or causes grievous hurt by
+            throwing or administering acid with an intention to cause such injury or hurt will be punished with imprisonment of at
+            least ten years which may extended to life imprisonment with fine. \n\n
+            Section 326B has more legislative focus on the act of throwing or attempting to throw acid with the intention of causing
+            grievous hurt. The punishment under this section is imprisonment of not less than five years with fine which may extend
+            up to seven years.
+        </item>
+        <item>
+            Section 375, IPC defines rape. In simple terms, the offence of rape is the ravishment of a woman, without her consent, by
+            force, fraud or fear.It is an obnoxious act of highest degree which violates the right to privacy and sanctity of a female.
+            Apart from being a dehumanising and perverted act, it is also an unlawful interface in the personal life of a woman which
+            is an intense blow on the honour, dignity, reputation and self-esteem of a woman. \n\n
+            Section 375 includes:\n
+            1.Actus Reus: There must be sexual intercourse, as understood in terms of the provisions of Section 375 (a) to (d), with
+            a woman by a man. \n\n
+            2.Mens Rea: The sexual intercourse must be under any of the seven circumstances as given under Section 375.\n\n
+            Section 376 provides for committing the heinous crime of rape. This section is divided into two sub-sections.\n\n
+            Section 376(1) provides a minimum sentence of seven years of imprisonment that may extend to life imprisonment
+            and fine.\n\n
+            Section 376(2) provides punishment not less than ten years of imprisonment but may extend to imprisonment for life or death
+            or fine.\n\n
+            Section 376D lays down the punishment for gang rape. Where a woman is raped by more than one person acting in furtherance
+            of a common intention, each of them shall be liable for the offence of rape and shall be punished with rigours imprisonment
+            for not less than twenty years which may extend to lifetime imprisonment and fine.
+        </item>
+        <item>
+            Section 363 in IPC defines Punishment for Kidnapping. Whoever kidnaps any person or from lawful guardianship, shall be
+            punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable
+            to fine.\n\n
+            Section 373 in IPC defines buying minor for purposes of prostitution, etc. Whoever buys, hires or otherwise obtains
+            possession of any person under the age of 18 years with intent that such person shall at any age be employed or used for
+            the purpose of prostitution or illicit intercourse with any person shall be punished with imprisonment of either
+            description for a term which may extend to ten years, and shall also be liable to fine.
+        </item>
+        <item>
+            Dowry deaths and bride burning are sinful act which are still prevailing in the Indian society. It is a symptom of a
+            special social illness and are unfortunate development of our society. For this serious matter, the special provision
+            was inserted under IPC through Section 304B which deals with dowry deaths.\n\n
+            Section 304B defines dowry death. It lays down its punishment which is not less than seven years and may extend to
+            life imprisonment.
+        </item>
+        <item>
+            A separate chapter of IPC deals with the issues of cruelty by a husband or his relatives under Section 498A. The objective
+            behind the introduction of this provision was to punish the husband and his relatives who torture, ill-treat and harass
+            a woman with a view to force her or any other person to her to meet any unlawful demands.\n\n
+            This section has given a new dimension to the concept of cruelty which is the essence of this section, for the purpose
+            of matrimonial relief. Not every type of cruelty will attract Section 498A. It has been mentioned under the section that
+            what kind of cruelty is included hereby.\n\n
+            The punishment for this offence is imprisonment for a term which may extend to three years with fine.
+        </item>
+        <item>
+            Section 498A is intended to prevent the giving or receiving of a dowry. Under the Dowry Prohibition Act, dowry includes
+            property, goods, or money given by either party to the marriage, by the parents of either party, or by anyone else in connection
+            with the marriage.\n\n
+            The punishment could be imprisonment for minimum 5 years and a fine more than ₹15,000 or the value of the dowry received,
+            whichever is higher.The Act provides the penalty for directly or indirectly demanding dowry and provides for a penalty involving
+            a prison term of not less than 6 months and extendable up to two years along with a fine of ₹10,000.
+        </item>
+
+        <item>
+            Section 354, IPC deals with the offence of molestation i.e. assault to woman with intent to outrage her modesty.
+            This section aims to protect women against any sort of indecent or fifthly behaviour by others which is derogatory to her
+            modesty. This offence is not just against the individual but also against the society and public morality. Therefore, if
+            any person uses criminal force upon a woman an intention to outrage the modesty of a woman, he is deemed to be punished
+            with an imprisonment of not less than one year which may extended up to five years with fine.\n\n
+            It is not specifically defined under IPC that what constitutes an outrage to modesty of women. Modesty is said to
+            be outraged by such an act of offender which shocks and recognizes as an insult to female decency and dignity.
+        </item>
+        <item>
+            According to Section 354A IPC, Sexual Harassment is the: \n
+            1.Unwelcome touching or other physical contact.\n
+            2.Asking or demanding sex or any other sexual activity.\n
+            3.Making remarks which are of a sexual nature.\n
+            4.Showing pornographic material which may include videos, magazines, books, etc.\n\n
+            The punishment for the first three kinds of sexual harassment is three years and for the forth type which is one year.
+        </item>
+        <item>
+            Section 354B penalises the offence of assaulting or using criminal force to a woman or abetting any such act with an
+            intention to disrobe or compel her to be naked, with a punishment not less than three years which may extend to seven
+            years with a fine. This is gender specific offence i.e. only man can be punished under this section.
+        </item>
+        <item>
+            This offence came into existence after Nirbhaya Rape Cape, 2012. It is mentioned under Section 354C IPC.
+            The word "Voyeurism" means appeasement derived from observing the genital or sexual acts of others usually secretly.
+            This provision is divided in two different parts. Firstly, when a person watches or captures image of a woman engaging
+            in some private act and Secondly, when the person disseminate or spread such images. \n\n
+            The first offence is punishable with imprisonment of not less than one year which may extend up to three years with fine.
+            The second offence is punishable with imprisonment of not less than three years which may extend up to seven years with fine.
+        </item>
+        <item>
+            Section 354D IPC talks about the term "Stalking" which generally means tha act of following or trying to contact
+            despite disinterest of woman. This section contains two offence:\n
+            1. Where a man follows or contact or attempts to contact a woman repeatedly despite her clear indication of disinterest.\n
+            2. Where a man monitors the use by a woman of the internet, email, or any other form of electronic communication.\n\n
+            For the first offence the punishment is imprisonment foe a term which may extend to three years with fine.
+            The punishment for second conviction may extend up to five years of imprisonment with fine.
+        </item>
+        <item>
+            An act which is done intending to insult the modesty of woman which may not necessarily involve any physical force is
+            brought under the shade of this provision through Section 509. This section intends to deter any kind of aggregation into
+            a modesty of women whether by any word, gesture or act or by intruding upon the privacy of such woman. This section is also
+            referred as the "Eve Teasing Section".\n\n
+            Any person who commits an offence under Section 509 shall be punished with simple imprisonment for a term which may
+            extend to three years with fine.
+        </item>
+    </string-array>
+
+    //-----Array of "Tips from Escape"-----
+    <string-array name="threatQueStr">
+        <item>
+            1. What should a woman do if she finds herself alone in the company of a strange male as she prepares to enter a list in a High Rise apartment late at night?
+        </item>
+        <item>
+            2. What to do if a stranger tries to attack you when you are alone at your house?
+        </item>
+        <item>
+            3. What should do while taking Auto or Taxi at Night?
+        </item>
+        <item>
+            4. What if the driver turns into a street he is not supposed too and you feel you are entering a danger zone?
+        </item>
+        <item>
+            5. What to do if you are stalked at night?
+        </item>
+    </string-array>
+
+    <string-array name="threatAnsStr">
+        <item>
+            Enter the lift. If you need to need to reach the 12th floor, press all the buttons up to your destination.
+            No one will dare attack you in a lift that stops on every floor.
+        </item>
+        <item>
+            Run into the Kitchen. Use Chilli Powder, Turmeric Powder and Knife for self defence. If you are not able to
+            find anything, then you can protect yourself by throwing Plates, Dishes and other Utensils.
+        </item>
+        <item>
+            Before getting into an auto at night, note the registration and number and send it to the person to whom you believe i.e.
+            family, close friend,etc. You also have to tell the registration number over the phone in that language so the driver will also understand.\n\n
+            If no one is answering your call then put your phone on vibrate and pretend that you are talking to them. You can also talk over the phone
+            when you are in the taxi or auto.So the driver knows that someone has his details and he will be in serious trouble if anything goes wrong.
+        </item>
+        <item>
+            Use you purse to attack or use your dupatta to wrap around his neck and pull him back. Within seconds, he will feel chocked and helpless.
+            In case you do not have your dupatta then pull back his T-shirt or shirt to choke him.
+        </item>
+        <item>
+            Enter into any shop and explain your situation and ask for help or else take help from any house. If it is late night and shops are closed
+            then enter into the ATM . ATM centers always have close circuit television.
+        </item>
+    </string-array>
+
+    //-----Array of "Tips of Safety"-----
+    <string name="safetyStr">
+        <item>
+            1. Avoid more usage of phones, this makes you more alert.\n\n
+            2. While travelling through auto, make sure to share auto number with someone.\n\n
+            3. If you booked a cab, always share your coordinates with someone.\n\n
+            4. Avoid going to isolated areas with no CCTV camera.\n\n
+            5. Learn some Self Defence Techniques to protect yourself.\n\n
+            6. For safety, make sure to carry small knife or Pepper Spray.
+        </item>
+    </string>
+
+    <string name="socialStr">
+        <item>
+            1. Do not updates you personal data and locations on social media.\n\n
+            2. Do not share post which contains your email address, home address or mobile numbers.\n\n
+            3. Avoid posting your photos which can be use for editing.\n\n
+            4. Avoid posting day to day life style or life schedule on social media.\n\n
+            5. Avoid accepting requests from unknown person.
+        </item>
+    </string>
+
+    //-----About App-----
+    <string name="aboutApp">
+        <item>
+            Our application is for girls and women who are living or travelling alone or who are facing some problems and does not
+            have any idea about what to do to handle this situation.\n\n
+            In our application we have provided many Laws for women with details. So women will be aware about laws and if required
+            they can also handle their situation.\n\n
+            We have also provided tips for safety and tips to escape from threats. Also there are listed NGOs for women welfare
+            and development.\n\n
+            There are video for self defence technique so any women will be able to protect themselves if she is living alone or
+            travelling alone.\n\n
+            This app also has SOS so any the listed people know about your location and easy reach you if you are in danger.\n\n
+            For feedback and query send mail on:\n\n"shethehumanapplication@gmail.com"
+        </item>
+    </string>
+
+</resources>

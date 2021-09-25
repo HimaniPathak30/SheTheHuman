@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="#F8F8FF"
+    tools:context=".DashboardFragment">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <GridLayout
+            android:columnCount="2"
+            android:rowCount="3"
+            android:alignmentMode="alignMargins"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/survey_banner"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_columnWeight="1"
+                android:layout_rowWeight="1"
+                app:cardElevation="6dp"
+                app:cardCornerRadius="12dp"
+                android:layout_margin="12dp">
+
+                <LinearLayout
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
+                    android:orientation="vertical"
+                    android:padding="16dp"
+                    android:layout_gravity="center">
+
+                    <ImageView
+                        android:id="@+id/fav"
+                        android:layout_width="60dp"
+                        android:layout_height="60dp"
+                        android:background="@drawable/container"
+                        android:layout_alignParentLeft="true"
+                        android:padding="10dp"
+                        app:srcCompat="@drawable/survey"
+                        android:layout_gravity="center_horizontal"
+                        app:tint="@color/black"
+                        tools:ignore="VectorDrawableCompat" />
+
+                    <TextView
+                        android:id="@+id/favText"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="16dp"
+                        android:text="Take a Survey"
+                        android:textColor="@color/cardview_dark_background"
+                        android:textSize="14sp"
+                        android:textStyle="bold"
+                        android:gravity="center"
+                        android:layout_gravity="center_horizontal"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toBottomOf="@+id/fav" />
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/safety_banner"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_columnWeight="1"
+                android:layout_rowWeight="1"
+                app:cardElevation="6dp"
+                app:cardCornerRadius="12dp"
+                android:layout_margin="12dp">
+
+                <LinearLayout
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
+                    android:orientation="vertical"
+                    android:padding="16dp"
+                    android:layout_gravity="center">
+
+                    <ImageView
+                        android:id="@+id/safety"
+                        android:layout_width="60dp"
+                        android:layout_height="60dp"
+                        android:background="@drawable/container"
+                        android:layout_alignParentRight="true"
+                        android:padding="10dp"
+                        android:layout_gravity="center_horizontal"
+                        app:srcCompat="@drawable/safety"
+                        app:tint="@color/black"
+                        tools:ignore="VectorDrawableCompat" />
+
+                    <TextView
+                        android:id="@+id/safetyText"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="16dp"
+                        android:text="Tips for Woman Safety"
+                        android:textColor="@color/cardview_dark_background"
+                        android:textSize="14sp"
+                        android:textStyle="bold"
+                        android:gravity="center"
+                        android:layout_gravity="center_horizontal"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintTop_toBottomOf="@+id/safety" />
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/escape_banner"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_columnWeight="1"
+                android:layout_rowWeight="1"
+                app:cardElevation="6dp"
+                app:cardCornerRadius="12dp"
+                android:layout_margin="12dp">
+
+                <LinearLayout
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
+                    android:orientation="vertical"
+                    android:padding="16dp"
+                    android:layout_gravity="center">
+
+                    <ImageView
+                        android:id="@+id/threat"
+                        android:layout_width="60dp"
+                        android:layout_height="60dp"
+                        android:background="@drawable/container"
+                        android:layout_alignParentLeft="true"
+                        android:padding="10dp"
+                        app:srcCompat="@drawable/escape"
+                        android:layout_gravity="center_horizontal"
+                        app:tint="@color/black"
+                        tools:ignore="VectorDrawableCompat" />
+
+                    <TextView
+                        android:id="@+id/threatText"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="16dp"
+                        android:text="Tips to Escape from Threat"
+                        android:textColor="@color/cardview_dark_background"
+                        android:textSize="14sp"
+                        android:textStyle="bold"
+                        android:gravity="center"
+                        android:layout_gravity="center_horizontal"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toBottomOf="@+id/fav" />
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/law_banner"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_columnWeight="1"
+                android:layout_rowWeight="1"
+                app:cardElevation="6dp"
+                app:cardCornerRadius="12dp"
+                android:layout_margin="12dp">
+
+                <LinearLayout
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
+                    android:orientation="vertical"
+                    android:padding="16dp"
+                    android:layout_gravity="center">
+
+                    <ImageView
+                        android:id="@+id/law"
+                        android:layout_width="60dp"
+                        android:layout_height="60dp"
+                        android:background="@drawable/container"
+                        android:layout_alignParentRight="true"
+                        android:padding="10dp"
+                        android:layout_gravity="center_horizontal"
+                        app:srcCompat="@drawable/law"
+                        app:tint="@color/black"
+                        tools:ignore="VectorDrawableCompat" />
+
+                    <TextView
+                        android:id="@+id/lawText"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="16dp"
+                        android:text="Law for Woman"
+                        android:textColor="@color/cardview_dark_background"
+                        android:textSize="14sp"
+                        android:textStyle="bold"
+                        android:gravity="center"
+                        android:layout_gravity="center_horizontal"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintTop_toBottomOf="@+id/safety" />
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/video_banner"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_columnWeight="1"
+                android:layout_rowWeight="1"
+                app:cardElevation="6dp"
+                app:cardCornerRadius="12dp"
+                android:layout_margin="12dp">
+
+                <LinearLayout
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
+                    android:orientation="vertical"
+                    android:padding="16dp"
+                    android:layout_gravity="center">
+
+                    <ImageView
+                        android:id="@+id/video"
+                        android:layout_width="60dp"
+                        android:layout_height="60dp"
+                        android:background="@drawable/container"
+                        android:layout_alignParentRight="true"
+                        android:padding="10dp"
+                        android:layout_gravity="center_horizontal"
+                        app:srcCompat="@drawable/defence"
+                        app:tint="@color/black"
+                        tools:ignore="VectorDrawableCompat" />
+
+                    <TextView
+                        android:id="@+id/videoText"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="16dp"
+                        android:text="Videos for Defense"
+                        android:textColor="@color/cardview_dark_background"
+                        android:textSize="14sp"
+                        android:textStyle="bold"
+                        android:gravity="center"
+                        android:layout_gravity="center_horizontal"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintTop_toBottomOf="@+id/safety" />
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/ngo_banner"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_columnWeight="1"
+                android:layout_rowWeight="1"
+                app:cardElevation="6dp"
+                app:cardCornerRadius="12dp"
+                android:layout_margin="12dp">
+
+                <LinearLayout
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
+                    android:orientation="vertical"
+                    android:padding="16dp"
+                    android:layout_gravity="center">
+
+                    <ImageView
+                        android:id="@+id/ngo"
+                        android:layout_width="60dp"
+                        android:layout_height="60dp"
+                        android:background="@drawable/container"
+                        android:layout_alignParentRight="true"
+                        android:padding="10dp"
+                        android:layout_gravity="center_horizontal"
+                        app:srcCompat="@drawable/ngo"
+                        app:tint="@color/black"
+                        tools:ignore="VectorDrawableCompat" />
+
+                    <TextView
+                        android:id="@+id/ngoText"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="16dp"
+                        android:text="NGOs for Woman"
+                        android:textColor="@color/cardview_dark_background"
+                        android:textSize="14sp"
+                        android:textStyle="bold"
+                        android:gravity="center"
+                        android:layout_gravity="center_horizontal"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintTop_toBottomOf="@+id/safety" />
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+        </GridLayout>
+
+        <TextView
+            android:id="@+id/emergency_btn"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:background="@drawable/emergency_btn"
+            android:text="Emergency Button"
+            android:textSize="20sp"
+            android:textColor="@color/white"
+            android:layout_margin="20dp" />
+
+        <Button
+            android:id="@+id/addContact"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/round_bg"
+            android:text="Add Contact"
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            android:textStyle="normal"
+            app:backgroundTint="#FF0077"
+            app:elevation="10dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:layout_marginBottom="26dp"/>
+
+    </LinearLayout>
+
+</ScrollView>

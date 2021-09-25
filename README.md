@@ -20,9 +20,9 @@ This project is about to spread awareness about laws to women. It also shows the
       <td align="center"><img src="https://user-images.githubusercontent.com/91330948/134782321-82e62ad6-a5d8-49d9-a3e7-9673d6e87fe4.jpg" width="100"></td>
       <td align="center"><img src="https://user-images.githubusercontent.com/91330948/134782335-7ce2a279-f7d7-46d6-8a3a-0d7cc6c72d87.jpg" width="100"></td>
       <td align="center"><img src="https://user-images.githubusercontent.com/91330948/134782911-dbff9e24-9d2f-436c-b789-afbe87b88ed1.jpg" width="100"></td>
-      <td align="center"><img src="" width="100"></td>
-      <td align="center"><img src="" width="100"></td>
-      <td align="center"><img src="" width="100"></td>
+      <td align="center"><img src="https://user-images.githubusercontent.com/91330948/134783943-ed7afe9c-54cb-4d4c-9c1c-07a328eb94a3.jpg" width="100"></td>
+      <td align="center"><img src="https://user-images.githubusercontent.com/91330948/134783962-dcd8ec63-0bba-4450-9778-7fa9db3793fd.jpg" width="100"></td>
+      <td align="center"><img src="https://user-images.githubusercontent.com/91330948/134783964-d47196cd-f374-4ad8-8b82-f3cf9ca55c23.jpg" width="100"></td>
     </tr>
     <tr>
       <td>Law Section</td>
@@ -34,13 +34,11 @@ This project is about to spread awareness about laws to women. It also shows the
       <td>Comment Section</td>
     </tr>
     <tr>
-      <td align="center"><img src="" width="100"></td>
-      <td align="center"><img src="" width="100"></td>
-      <td align="center"><img src="" width="100"></td>
-      <td align="center"><img src="" width="100"></td>
+      <td align="center"><img src="https://user-images.githubusercontent.com/91330948/134783945-775aae07-9e59-4a37-ba62-f14b1e283920.jpg" width="100"></td>
+      <td align="center"><img src="https://user-images.githubusercontent.com/91330948/134783971-77436685-1e6d-4f45-b6be-92d3fbb2225c.jpg" width="100"></td>
+      <td align="center"><img src="https://user-images.githubusercontent.com/91330948/134783975-c870f743-e714-48a1-a3ac-84e6212fb1fb.jpg" width="100"></td>
+      <td align="center"><img src="https://user-images.githubusercontent.com/91330948/134783977-c608dac2-d065-4525-b56b-f3c96628f997.jpg" width="100"></td>
       <td align="center"><img src="https://user-images.githubusercontent.com/91330948/134782928-aecf80a3-a744-4623-b12c-55fcfd481b6c.jpg" width="100"></td>
-      <td align="center"><img src="" width="100"></td>
-      <td align="center"><img src="" width="100"></td>
     </tr>
 </p>
 
